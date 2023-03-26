@@ -1,5 +1,5 @@
-![GameProject](https://user-images.githubusercontent.com/26929215/227793310-52eb069e-2eab-47c8-a94b-61bebf8837af.jpg)
 # IP1-Course-Gameproject
+![GameProject](https://user-images.githubusercontent.com/26929215/227793310-52eb069e-2eab-47c8-a94b-61bebf8837af.jpg)
 # This was created for my project submission for the Introduction To Programming module
 # on the BSc(Hons) Computer Science degree at Goldsmiths
 #
